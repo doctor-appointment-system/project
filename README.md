@@ -1,2 +1,2 @@
 # project
-doctor appointment system
+Doctor appointment system
