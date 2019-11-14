@@ -1,2 +1,2 @@
 # project
-Doctor appointment system
+Doctor appointment system based on mean stack
